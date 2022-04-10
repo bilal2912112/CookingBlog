@@ -1,2 +1,1 @@
-# CookingBlog
- 
+in this project i have built a cooking Blog app in which it display the recipes and you can also create a recipe and it will be store in database.i have use node.js express.js and mongodb for back end and for rendring data i have use ejs
